@@ -1,10 +1,9 @@
 /*
-3. Sumatoria encontrar la sumatoria de una serie de números, el limite se le solicita al 
-usuario. 
- 
-Escriba el número para sumatoria: 8 
-Resultado: 36 
- 
+Sum to find the sum of a series of number, the user is asked for the limit.
+
+Enter the number for the sum: 8
+Result: 36
+
 Σ= 1 + 2 + 3 +4 +5 + 6 + 7 +8 
 */
 import java.util.Scanner;
