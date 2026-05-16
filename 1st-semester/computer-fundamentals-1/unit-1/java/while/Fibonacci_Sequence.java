@@ -1,11 +1,11 @@
 /*
-2. Escribir un programa para encontrar la secuencia de Fibonacci. La secuencia es al 
-siguiente: 
+Make a program to find the Fibonacci sequence. The sequence is the
+following:
  
 F= 0,1,1,2,3,5,8,13,21,34,55, ......................................., n 
- 
-El primer elemento es 0, el segundo es 1 y cada elemento restante es la suma de los 
-dos anteriores. El programa debe solicitar el número límite de la serie.
+
+The first element is 0, second is 1 and each remaining element is the sum of the
+last two. The program must request the limit number of the series.
 */
 import java.util.Scanner;
 public class Fibonacci_Sequence {
